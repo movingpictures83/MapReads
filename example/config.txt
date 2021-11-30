@@ -1,0 +1,2 @@
+Prefix plugins/MapReads/example/
+Plugin MapReads inputfile parameters.txt outputfile mappedReads.bam
